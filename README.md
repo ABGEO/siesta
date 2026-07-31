@@ -9,6 +9,16 @@ A macOS menu bar app that pauses your Slack status and Google Calendar availabil
 - Restores your previous status when you return, or after the away period ends
 - Sign-in via OAuth 2.0, tokens stored in the Keychain
 
+## Installation
+
+```
+brew tap abgeo/tap
+brew install --cask siesta
+```
+
+This build isn't notarized (no paid Apple Developer account behind it yet), so on first launch macOS will flag it as from an unidentified developer.
+Installing via Homebrew works around this automatically; if you download the app some other way, right-click it and choose Open once to bypass Gatekeeper.
+
 ## Setup
 
 1. Clone the repo and open `Siesta.xcodeproj` in Xcode.
