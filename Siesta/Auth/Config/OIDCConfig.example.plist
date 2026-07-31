@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Template for OIDCConfig.plist (which is gitignored).
+
+  Setup:
+    cp Siesta/Auth/Config/OIDCConfig.example.plist Siesta/Auth/Config/OIDCConfig.plist
+  then fill in each provider's clientID from its app/console.
+
+  clientID is a public-client identifier (no secret). One entry per integration
+  id (see each integration's makeAuthConfig).
+-->
+<plist version="1.0">
+<dict>
+	<key>slack</key>
+	<dict>
+		<key>clientID</key>
+		<string>YOUR_SLACK_CLIENT_ID</string>
+	</dict>
+	<key>google</key>
+	<dict>
+		<key>clientID</key>
+		<string>YOUR_GOOGLE_CLIENT_ID</string>
+	</dict>
+</dict>
+</plist>

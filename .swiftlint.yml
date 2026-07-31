@@ -1,0 +1,36 @@
+excluded:
+  - .build
+  - DerivedData
+
+opt_in_rules:
+  - closure_spacing
+  - contains_over_first_not_nil
+  - empty_count
+  - explicit_init
+  - fatal_error_message
+  - first_where
+  - force_unwrapping
+  - implicitly_unwrapped_optional
+  - joined_default_parameter
+  - last_where
+  - redundant_nil_coalescing
+  - redundant_type_annotation
+  - sorted_first_last
+  - toggle_bool
+  - unneeded_parentheses_in_closure_argument
+
+line_length:
+  warning: 130
+  error: 160
+
+identifier_name:
+  min_length: 2
+  excluded:
+    - id
+    - to
+
+type_body_length:
+  warning: 300
+
+function_body_length:
+  warning: 60

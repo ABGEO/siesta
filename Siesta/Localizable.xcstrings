@@ -1,0 +1,204 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "%@: %@" : {
+
+    },
+    "%lld h" : {
+
+    },
+    "%lld hours" : {
+
+    },
+    "%lld m" : {
+
+    },
+    "%lld min" : {
+
+    },
+    "%lldh %lldm" : {
+
+    },
+    "1 hour" : {
+
+    },
+    "Also set presence to Away" : {
+
+    },
+    "Authorization failed: %@" : {
+
+    },
+    "Authorization response did not match the request." : {
+
+    },
+    "Back at %@" : {
+
+    },
+    "Busy" : {
+
+    },
+    "Calendar" : {
+
+    },
+    "Calendar event when away" : {
+
+    },
+    "Click to include %@" : {
+
+    },
+    "Click to skip %@" : {
+
+    },
+    "Connect…" : {
+
+    },
+    "Connecting…" : {
+
+    },
+    "Connection" : {
+
+    },
+    "Could not build the authorization request." : {
+
+    },
+    "Could not open the browser to authorize." : {
+
+    },
+    "Default status when away" : {
+
+    },
+    "Disconnect" : {
+
+    },
+    "Display remaining time next to the icon" : {
+
+    },
+    "Emoji (:shortcode:)" : {
+
+    },
+    "Event title" : {
+
+    },
+    "Flips your Slack presence, not just the status text" : {
+
+    },
+    "Free" : {
+
+    },
+    "General" : {
+
+    },
+    "Google" : {
+
+    },
+    "Google Calendar" : {
+
+    },
+    "Google Calendar API error: %@" : {
+
+    },
+    "HTTP %lld" : {
+
+    },
+    "Info" : {
+
+    },
+    "Launch at login" : {
+
+    },
+    "Links" : {
+
+    },
+    "Missing client ID. Add it to OIDCConfig.plist." : {
+
+    },
+    "No authorization code was returned." : {
+
+    },
+    "No HTTP response." : {
+
+    },
+    "No integrations connected. Siesta will run a local timer only." : {
+
+    },
+    "Not authenticated." : {
+
+    },
+    "Not connected" : {
+
+    },
+    "Out of Office" : {
+
+    },
+    "Primary Calendar" : {
+
+    },
+    "Quit Siesta" : {
+
+    },
+    "Release Notes" : {
+
+    },
+    "Report an Issue" : {
+
+    },
+    "Retry" : {
+
+    },
+    "Return now" : {
+
+    },
+    "Set Away · %@" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Show countdown in menu bar" : {
+
+    },
+    "Show me as" : {
+
+    },
+    "Siesta" : {
+
+    },
+    "Slack" : {
+
+    },
+    "Slack API error: %@" : {
+
+    },
+    "Status message" : {
+
+    },
+    "Time remaining" : {
+
+    },
+    "Token response contained no access token." : {
+
+    },
+    "Unexpected calendar-list response." : {
+
+    },
+    "Unexpected create-event response." : {
+
+    },
+    "Unexpected token-endpoint response." : {
+
+    },
+    "unknown" : {
+
+    },
+    "Version v%@" : {
+
+    },
+    "View on GitHub" : {
+
+    }
+  },
+  "version" : "1.0"
+}
