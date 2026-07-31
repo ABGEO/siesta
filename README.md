@@ -2,6 +2,11 @@
 
 A macOS menu bar app that pauses your Slack status and Google Calendar availability while you're away, and restores them when you're back.
 
+<p align="center">
+  <img src=".github/images/screenshot.png" alt="Siesta menu bar dropdown" width="320">
+  <img src=".github/images/settings.png" alt="Siesta settings window" width="320">
+</p>
+
 ## Features
 
 - Lives in the menu bar. No dock icon, no windows to manage.
@@ -13,7 +18,7 @@ A macOS menu bar app that pauses your Slack status and Google Calendar availabil
 
 ```
 brew tap abgeo/tap
-brew install --cask siesta
+brew install siesta
 ```
 
 This build isn't notarized (no paid Apple Developer account behind it yet), so on first launch macOS will flag it as from an unidentified developer.
